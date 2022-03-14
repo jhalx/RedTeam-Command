@@ -1,4 +1,4 @@
-# command
+# RedTerm-Command
 收集渗透中会用到的常用命令  。
 
 更新时间：2022.2.27
